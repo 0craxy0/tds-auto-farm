@@ -1,6 +1,6 @@
 # tds-auto-farm
 
-> A highly compatible Roblox Tower Defense Simulator auto farming script and API.
+> Roblox Tower Defense Simulator automated farming script and supporting backend API.
 
 ![GitHub stars](https://img.shields.io/github/stars/0craxy0/tds-auto-farm?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/0craxy0/tds-auto-farm?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/0craxy0/tds-auto-farm?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/0craxy0/tds-auto-farm?style=for-the-badge&logo=github)
 
@@ -15,18 +15,18 @@
 
 ## 📝 Description
 
-tds-auto-farm is an automated gameplay utility designed for Roblox's Tower Defense Simulator (TDS). It streamlines resource gathering and match progression by automating repetitive tasks, offering players a highly compatible solution for automated farming in the game.
+tds-auto-farm is an automated gameplay utility designed for Roblox's Tower Defense Simulator (TDS). It addresses the repetitive nature of resource gathering and match progression by automating gameplay loops, allowing players to farm in-game currency and experience points more efficiently.
 
 ## ✨ Key Features
 
-- **🤖 Roblox Automation Script** — Includes the primary script designed to run automated gameplay loops within Tower Defense Simulator.
-- **🌐 API Source Code** — Provides the backend API codebase to support, coordinate, or log automated farming actions.
-- **⚡ High Executor Compatibility** — Engineered with high compatibility in mind to ensure seamless execution across different Roblox script runtimes.
+- **🤖 Roblox Automation Script** — Includes a dedicated script designed to automate gameplay loops and match progression within Tower Defense Simulator.
+- **🌐 Backend API Codebase** — Provides backend API source code to support, coordinate, and log automated farming actions.
+- **⚡ High Executor Compatibility** — Engineered for high compatibility across different Roblox script executors and runtimes.
 
 ## 🎯 Use Cases
 
-- Automating matches in Tower Defense Simulator to farm currency and experience points efficiently.
-- Self-hosting the backend API to manage and support custom auto-farming routines.
+- Automating matches in Tower Defense Simulator to farm experience points and currency efficiently.
+- Self-hosting the backend API to manage, log, and coordinate custom auto-farming routines.
 
 ## ⚡ Quick Start
 
